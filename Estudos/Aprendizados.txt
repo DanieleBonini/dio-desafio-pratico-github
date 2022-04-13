@@ -1,0 +1,22 @@
+# Aprendizados 
+
+##### Irei armazenar neste doc todos os aprendizados deste módulo do Desafio prático
+
+### Comandos
+
+**git status:** para visualizar o status e em qual diretório está aberto atualmente; 
+
+
+
+Quando há alguma alteração, o próprio terminal informa em vermelho que houve alteração ou inclusão de um novo diretório. Com isso, deve-se adiciona-lo: 
+
+**git add** ou **git add .** ou **git add** -, assim serão adicionadas todas as alterações que ocorreram. 
+
+Depois, volte com o **git status** para confirmar se realmente foram adicionadas. Sendo assim, a linha de comando aparece em verde. 
+
+
+
+
+
+
+
