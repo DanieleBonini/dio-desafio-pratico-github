@@ -14,6 +14,10 @@ Quando há alguma alteração, o próprio terminal informa em vermelho que houve
 
 Depois, volte com o **git status** para confirmar se realmente foram adicionadas. Sendo assim, a linha de comando aparece em verde. 
 
+Após qualquer alteração é importantíssimo colocar o comentário, para que fique claro o que foi alterado: **git commit -m** 
+
+
+
 
 
 
